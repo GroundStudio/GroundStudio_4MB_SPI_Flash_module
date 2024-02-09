@@ -1,27 +1,28 @@
-GroundStudio
+GroundStudio Flash 32 module
 ====================================
+![SPI Flash module REV0 1](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/assets/77836107/9b6038f4-997c-40e2-9849-8588bc669b94)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/1849-modul-memorie-flash-32bit-4mbyte.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Short description of the board.
+32Mb/4MB SPI flash memory module based on W25Q32 chip.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
+* [/Tools](https://github.com/GroundStudio/GroundStudio_4MB_SPI_Flash_module/tree/main) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V0.0.1] Initial version
+* [V0.1] Initial version
 
 License
 -------------------
